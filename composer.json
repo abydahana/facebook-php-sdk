@@ -4,10 +4,10 @@
     "keywords": ["facebook", "sdk"],
     "type": "library",
     "homepage": "https://github.com/abydahana/facebook-php-sdk",
-    "license": "Facebook Platform",
+    "license": "proprietary",
     "authors": [
         {
-            "name": "proprietary",
+            "name": "Facebook",
             "homepage": "https://github.com/facebook/php-graph-sdk/contributors"
         }
     ],
